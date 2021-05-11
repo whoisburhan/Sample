@@ -1,0 +1,21 @@
+{
+    "name": "PlayFabSystems",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0da6d172d18a54e4389d0dce1e1ffdf2",
+        "GUID:1ddc1c5b40144d7429082939d424e151",
+        "GUID:d2f8fef77eb124ef7b85ccf0f5577856",
+        "GUID:d62740977bfed4aceac025fb2dafaa07",
+        "GUID:78669f744facd40018f19ca8c9b06d1a",
+        "GUID:8aa8a8085039f0e4ba1c8d6480d45262"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
